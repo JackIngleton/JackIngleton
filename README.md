@@ -9,3 +9,4 @@
 [![GitHub Stats](https://github-readme-stats-cyan-ten.vercel.app/api?username=jackingleton&count_private=true&show_icons=true)](https://github.com/JackIngleton/JackIngleton)
 
 [![Followers](https://img.shields.io/github/followers/jackingleton?style=social)](https://github.com/JackIngleton?tab=followers)
+![Updated Badge](https://badges.pufler.dev/updated/jackingleton/jackingleton)
