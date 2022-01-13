@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+<a href="https://github.com/JackIngleton/JackIngleton">
 <img align="center" src="https://github-readme-stats-cyan-ten.vercel.app/api?username=jackingleton&count_private=true&show_icons=true" />
-
+</a>
+<a href="https://github.com/JackIngleton/JackIngleton">
 <img align="center" src="https://github-readme-stats-cyan-ten.vercel.app/api/top-langs/?username=jackingleton&layout=compact" />
+</a>
