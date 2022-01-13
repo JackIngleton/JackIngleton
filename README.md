@@ -4,4 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Jack's GitHub stats](https://github-readme-stats-cyan-ten.vercel.app/api?username=jackingleton&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats-cyan-ten.vercel.app/api?username=jackingleton&count_private=true&show_icons=true" />
+
+<img align="center" src="https://github-readme-stats-cyan-ten.vercel.app/api/top-langs/?username=jackingleton&layout=compact" />
