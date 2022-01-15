@@ -1,4 +1,4 @@
-[header](header.png)
+![header](header.png)
 
 - 👋 Hi, I’m @JackIngleton
 - 👀 I’m interested in ...
