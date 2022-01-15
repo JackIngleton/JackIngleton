@@ -1,4 +1,7 @@
+## Hi, I'm Jack 👋
 ![header](header.png)
+*Header created in Go, using [github.com/golang/freetype/truetype](https://github.com/golang/freetype/truetype) and [golang.org/x/image/font](https://pkg.go.dev/golang.org/x/image/font). Gopher image from [https://github.com/egonelbre/gophers](https://github.com/egonelbre/gophers).* 
+
 
 - 👋 Hi, I’m @JackIngleton
 - 👀 I’m interested in ...
