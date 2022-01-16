@@ -15,10 +15,10 @@ ___
 ___
 
 <a href="https://github.com/JackIngleton/JackIngleton">
-  <img src="https://github-readme-stats-cyan-ten.vercel.app/api?username=jackingleton&count_private=true&show_icons=true" width="30%" />
+  <img src="https://github-readme-stats-cyan-ten.vercel.app/api?username=jackingleton&count_private=true&show_icons=true" width="50%" />
 </a>
 <a href="https://github.com/JackIngleton/JackIngleton">
-  <img src="https://github-readme-stats-cyan-ten.vercel.app/api/top-langs/?username=jackingleton&layout=compact" width="30%" />
+  <img src="https://github-readme-stats-cyan-ten.vercel.app/api/top-langs/?username=jackingleton&layout=compact" width="50%" />
 </a>
 
 ___
