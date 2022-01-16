@@ -3,6 +3,7 @@
 *Header created in Go, using [github.com/golang/freetype/truetype](https://github.com/golang/freetype/truetype) and [golang.org/x/image/font](https://pkg.go.dev/golang.org/x/image/font). Gopher image from [https://github.com/egonelbre/gophers](https://github.com/egonelbre/gophers).* 
 ___
 
+[![LinkedIn](https://img.shields.io/badge/jackingleton-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jackingleton/)
 [![GitHub followers](https://img.shields.io/github/followers/JackIngleton.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JackIngleton?tab=followers)
 
 
