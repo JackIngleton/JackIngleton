@@ -7,11 +7,11 @@ ___
 [![GitHub followers](https://img.shields.io/github/followers/JackIngleton.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JackIngleton?tab=followers)
 ___
 
-- 👋 Hi, I’m @JackIngleton
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm a software engineer based in London, currently working at [Popsa](https://popsa.com/).
+
+I spend most of my time writing Go web services which are orchestrated using [AWS EKS](https://aws.amazon.com/eks/) or [AWS Lambda](https://aws.amazon.com/lambda/). 
+
+You can reach me via [LinkedIn](https://www.linkedin.com/in/jackingleton/).
 ___
 
 ### Development
