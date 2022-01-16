@@ -14,9 +14,13 @@ ___
 - 📫 How to reach me ...
 ___
 
-[![Top Languages](https://github-readme-stats-cyan-ten.vercel.app/api/top-langs/?username=jackingleton&layout=compact)](https://github.com/JackIngleton/JackIngleton)
+<a href="https://github.com/JackIngleton/JackIngleton">
+  <img align="center" src="https://github-readme-stats-cyan-ten.vercel.app/api?username=jackingleton&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/JackIngleton/JackIngleton">
+  <img align="center" src="https://github-readme-stats-cyan-ten.vercel.app/api/top-langs/?username=jackingleton&layout=compact" />
+</a>
 
-[![GitHub Stats](https://github-readme-stats-cyan-ten.vercel.app/api?username=jackingleton&count_private=true&show_icons=true)](https://github.com/JackIngleton/JackIngleton)
 ___
 
 ![Profile views](https://gpvc.arturio.dev/JackIngleton)
